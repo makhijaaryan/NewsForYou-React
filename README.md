@@ -1,4 +1,4 @@
-# NewForYou
+# NewsForYou
 
 The React app utilizes class-based components to fetch and display news articles using the NewsAPI. Users can view news by filtering them by various categories. 
 
